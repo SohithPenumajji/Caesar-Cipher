@@ -1,2 +1,2 @@
 # Caesar-Cipher
-Caesar-Cipher
+This C++ project presents a straightforward implementation of the Caesar Cipher, a classic encryption technique that shifts each letter in the plaintext by a fixed number of positions. It serves as an excellent introduction to cryptography and provides the ability to both encrypt and decrypt messages. Whether you're new to cryptography or a coding enthusiast, this repository offers a well-documented C++ implementation for educational purposes or as a building block for more advanced cryptographic applications.
